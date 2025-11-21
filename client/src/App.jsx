@@ -60,7 +60,7 @@ function App() {
     fetchTasks();
   };
 
-   let tanuj = 'unused variable here';
+  //  let tanuj = 'unused variable here';
 
   return (
     <div className="min-h-screen bg-gray-50">
